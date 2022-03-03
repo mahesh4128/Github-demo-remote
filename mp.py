@@ -6,3 +6,6 @@ print("mayur")
 def(a,b)
  return a
  
+while(num>10)
+{print(mahesh is here )
+}
